@@ -1,7 +1,9 @@
 
 # About the project
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+Just finished skimming through a few chapters from the R for Health Data Science book and viewing Exercise Set 1. I have worked with R Studio before, but I am excited to learn how to use it in a more versatile manner. I have already noticed answers and explanations for problems I have faced before! The book and the exercise set were great starting guides and provided examples of common problems one might encounter when working with R Studio. I have never used GitHub before, and it is already giving me a hard time :D I hope to learn how to cooperate with it so that the course goes by more smoothly.
+
+Here is my GitHub repository: https://github.com/aadamurtomaki/IODS-project.git
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
